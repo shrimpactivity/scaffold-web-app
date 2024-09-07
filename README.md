@@ -1,4 +1,4 @@
-# scaffold-web-app
-Simple web app template scaffolding. React & Express w/ TypeScript stack.
+# template-web-app
+Simple React & Express w/ TypeScript web app template.
 
 
