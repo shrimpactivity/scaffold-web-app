@@ -16,6 +16,6 @@
     "url": "https://github.com/shrimpactivity/scaffold-web-app/issues"
   },
   "homepage": "https://github.com/shrimpactivity/scaffold-web-app#readme",
-  "workspaces": ["client", "server", "shared"],
+  "workspaces": ["packages/client", "packages/server", "packages/shared"],
   "private": true
 }

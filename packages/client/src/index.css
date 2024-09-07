@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Arial, sans-serif;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: rgb(234, 234, 234);
+}
+
+button {
+  border-radius: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  color: white;
+  background-color: rgb(66, 83, 83);
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  background-color: rgb(29, 39, 39);
+}
