@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Daisy", 
+    "breed": "Imp",
+    "goodBoy": true
+  },
+  {
+    "id": 2,
+    "name": "Scout", 
+    "breed": "Terrier",
+    "goodBoy": true
+  },
+  {
+    "id": 3,
+    "name": "Ollie", 
+    "breed": "Hound",
+    "goodBoy": true
+  }
+]
