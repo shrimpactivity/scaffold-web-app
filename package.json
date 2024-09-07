@@ -1,21 +1,21 @@
 {
   "name": "scaffold-web-app",
   "version": "1.0.0",
-  "description": "Simple web app template scaffolding. React &amp; Express w/ TypeScript stack.",
+  "description": "Simple web app template. React and Express w/ TypeScript stack.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shrimpactivity/scaffold-web-app.git"
+    "url": "git+https://github.com/shrimpactivity/template-web-app.git"
   },
   "author": "Carson Crow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shrimpactivity/scaffold-web-app/issues"
+    "url": "https://github.com/shrimpactivity/template-web-app/issues"
   },
-  "homepage": "https://github.com/shrimpactivity/scaffold-web-app#readme",
+  "homepage": "https://github.com/shrimpactivity/template-web-app#readme",
   "workspaces": ["packages/client", "packages/server", "packages/shared"],
   "private": true
 }
